@@ -1,0 +1,108 @@
+<mjml>
+  <mj-head>
+    <mj-title>Hello MJML</mj-title>
+  </mj-head>
+  <mj-body>
+    <!-- Image Header -->
+
+<mj-section background-color="#f0f0f0">
+ <mj-column>
+  <mj-image width="100px" src="cropped-LOGO-MONS.png">
+  </mj-image>
+</mj-column>
+</mj-section>
+
+    <mj-section background-url="header.jpg" background-size="100%" background-repeat="no-repeat" align="center" border="none" width="600px" padding-left="0px" padding-right="0px" padding-bottom="50px" padding-top="180px">
+
+      <mj-column width="600px">
+
+        <mj-text align="center" color="#fff" font-size="32px" font-family="Arial">Ouverture de notre boutique en ligne</mj-text>
+        <mj-text align="center" color="#fff" font-size="20px" font-family="Arial">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</mj-text>
+
+
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#eff5b2">
+      <mj-column width="400px">
+<mj-section padding="10px">
+<mj-column>
+<mj-image width="60px" src="cheese.png">
+</mj-column>
+</mj-section>
+  
+
+
+        <mj-text color="#525252" align="justify" padding="20px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
+        </mj-text>
+
+        <mj-button background-color="#009849" href="#" padding="30px">Profitez du click & collect !</mj-button>
+
+      </mj-column>
+    </mj-section>
+
+
+   <mj-section background-color="#FFF" padding-bottom="80px">
+   <mj-section padding-bottom="0px">
+   <mj-column>
+   <mj-text padding="0px" font-size="25px" font-weight="bold" align="center">Nos derniers arrivages</mj-text>
+   </mj-column>
+   </mj-section>
+
+      <mj-column width="500px" >
+<mj-section padding-bottom="5px">
+<mj-column>
+<mj-image width="250px" src="fromage1.jpg" padding="5px">
+</mj-column>
+<mj-column>
+<mj-image width="250px" src="fromage2.jpg" padding="5px">
+</mj-column>
+</mj-section>
+<mj-section padding-top="1px">
+<mj-column>
+<mj-text padding="0px">Lorem ipsum dolor sit amet,</mj-text>
+</mj-column> 
+<mj-column>
+<mj-text padding="0px">Lorem ipsum dolor sit amet,</mj-text>
+</mj-column>
+</mj-section> 
+
+<mj-section padding="0px">
+
+<mj-column>
+<mj-image width="250px" src="fromage3.jpg"  padding="5px">
+
+</mj-column>
+<mj-column>
+<mj-image width="250px" src="fromage5.jpg" padding="5px">
+</mj-column>
+</mj-section>
+<mj-section padding="7px">
+<mj-column>
+<mj-text padding="0px">Lorem ipsum dolor sit amet,</mj-text>
+</mj-column> 
+<mj-column>
+<mj-text padding="0px">Lorem ipsum dolor sit amet,</mj-text>
+</mj-column>
+</mj-column>
+</mj-section> 
+
+  <mj-section background-color="#92ca67" padding-top="20px">
+
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="13px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="20px">
+          <p>Copyright 2021 © Maison MonS</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-social padding-top="25px" padding-left="150px">
+          <mj-social-element name="facebook" href="[[SHORT_PERMALINK]]"></mj-social-element>
+          <mj-social-element name="twitter" href="[[SHORT_PERMALINK]]"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0px" padding-top="0px"></mj-section>
+</mj-section>
+  </mj-body>
+</mjml>
